@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "93a899cdda03fec18cd71e87a952a154",
+  "assets/AssetManifest.json": "4bd9a7694e7d8569ec4e454e569f4e02",
 "assets/assets/fonts/8bitdragon/EightBitDragon-anqx.ttf": "0c3a35abeb928637165ddefe6946a117",
 "assets/assets/fonts/montserrat/Montserrat-Italic-VariableFont_wght.ttf": "c7ef29737ac0c81becc51ffbd2d6feed",
 "assets/assets/fonts/montserrat/Montserrat-VariableFont_wght.ttf": "a3fcdff002f26cdf718968593b0d9e47",
@@ -11,7 +11,10 @@ const RESOURCES = {
 "assets/assets/fonts/pixeloid/PixeloidMono-1G8ae.ttf": "dbf3f90cee67aab678ca14b1312d0325",
 "assets/assets/images/mylogo.png": "f176c434d3b0115f781773f0c6e082dc",
 "assets/assets/images/welcomecard/me.png": "d35cd0a27008642e81bde9eef550ca87",
+"assets/assets/lottie/androidstudio.json": "b6d9782212519bc3d8e02515ac365eb2",
 "assets/assets/lottie/bluebackground.json": "93895955422a1c086260e4122b1d66fd",
+"assets/assets/lottie/flutter.json": "ab819bc7ddbca7dcd5f74fffc02e2f53",
+"assets/assets/lottie/gamedev.json": "f1a0a27715354d3a61e18cb8c12afafb",
 "assets/assets/lottie/helloworld.json": "38c17e8fc8bf14abf0f37cffa4708d38",
 "assets/assets/lottie/phone.json": "17a95e447e105c3efdf4be9172afd358",
 "assets/FontManifest.json": "aa76df408841ea23b0aa12c0c0e658df",
@@ -27,9 +30,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d5ee895147810055f4445432dfd82eba",
-"/": "d5ee895147810055f4445432dfd82eba",
-"main.dart.js": "c43d0216e8c1ecdd804e521f8bf50e74",
+"index.html": "a4f5f9a30a3679831efd0c562dedc3d6",
+"/": "a4f5f9a30a3679831efd0c562dedc3d6",
+"main.dart.js": "f9a8004a53ad901c87b9252b5cefc8e7",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
